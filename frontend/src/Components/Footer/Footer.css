@@ -1,0 +1,40 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  bottom: auto;
+  font-size: 16pt;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.footer-menu {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0;
+  justify-content: space-around;
+}
+
+.footer-menu li {
+  display: flex;
+  cursor: pointer;
+}
+
+.footer-menu > li + li {
+  padding-left: 20px;
+}
+
+.footer-menu li:hover {
+  opacity: 50%;
+}
+
+.social-links {
+  display: flex;
+  align-items: center;
+}
+
+.footer-img {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
