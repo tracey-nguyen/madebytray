@@ -1,4 +1,4 @@
-# madebytray
+# made by tray
 
 *This is an ongoing project and is incomplete
 
