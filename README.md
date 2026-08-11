@@ -7,3 +7,7 @@
 
 ## Design
 This project is designed by Tracey Nguyen and Luyuan Yang.
+
+## Medium Fidelity Wireframe
+https://www.figma.com/proto/34cmko7EIn384qi6cObTVg/made-by-tray?node-id=94-79&p=f&t=WUmlkAHeGhJMKPt1-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=94%3A79
+
